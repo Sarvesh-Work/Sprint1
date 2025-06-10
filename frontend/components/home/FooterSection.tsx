@@ -10,7 +10,7 @@ const FooterSection = () => {
           <div className=" text-[18px] text-primary font-semibold">
             Created by:
           </div>
-          <p className=" text-[18px]">Sarvesh Munde & Sakib Mulan</p>
+          <p className=" text-[18px]">Sarvesh Munde & Sakib Mulanie</p>
         </div>
         <a href="https://github.com/Sarvesh-Work/Notes-App">
           <Image src={GitHub} alt="git-hub" className="size-9" />
