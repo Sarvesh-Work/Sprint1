@@ -24,7 +24,7 @@ A full-stack Notes Management Web Application designed to help users efficiently
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
 - [React Query (TanStack Query)](https://tanstack.com/query/latest)
-- [Tailwind CSS](https://tailwindcss.com/) *(if used)*
+- [Tailwind CSS](https://tailwindcss.com/) 
 
 ### Backend
 - [Django](https://www.djangoproject.com/)
